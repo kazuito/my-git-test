@@ -4,4 +4,4 @@
 - list2
 - list3 ...
 
-Thanks for reading.
+Thanks for reading
